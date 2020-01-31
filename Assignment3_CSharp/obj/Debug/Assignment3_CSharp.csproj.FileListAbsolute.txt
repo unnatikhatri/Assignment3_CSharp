@@ -1,0 +1,6 @@
+D:\Promact\Assignment3_CSharp\obj\Debug\Assignment3_CSharp.csprojAssemblyReference.cache
+D:\Promact\Assignment3_CSharp\bin\Debug\Assignment3_CSharp.exe.config
+D:\Promact\Assignment3_CSharp\bin\Debug\Assignment3_CSharp.exe
+D:\Promact\Assignment3_CSharp\bin\Debug\Assignment3_CSharp.pdb
+D:\Promact\Assignment3_CSharp\obj\Debug\Assignment3_CSharp.exe
+D:\Promact\Assignment3_CSharp\obj\Debug\Assignment3_CSharp.pdb
